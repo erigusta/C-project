@@ -1,0 +1,65 @@
+﻿Iterationsplanering V.36 - 37
+
+
+* Skapa hemsida för att dokumentera utvecklingen av roboten /Erik
+* Itterationsplannering / Erik
+* Projectdefinition / Mathias, Christian
+* Sammanfatta resultatet av reflektion mötet: behåll, prova, problem. / samtliga
+* Redovisa förslag till Work Breakdown Structure /   Erik 
+* Visa resultat av inventeringen / samtliga?
+* Redovisa att roboten kan köra framåt, backa och sedan snurra runt. / Amin 
+* Tidsrapporten V1
+
+
+Iterationsplanering V.37 - 38
+* Redovisa v1 projektdefinitionen.
+* Tidsplannen uppdaterad
+* Ev schemavisning
+* Se över vad vi ska prova, behålla och ev problem
+* Finalisering av robotstruktur med sensorer
+* Redovisa uppdateringarna av projektwebbsidan och iterationsplaneringen.
+* Redovisa vilka nya egenskaper roboten fått under veckan.
+* Skapa gant schema
+* Redovisa robotens förbättringar
+
+
+Iterationsplanering V.38-39 lärande plannering
+* hemsida
+* Kolla igenom dokumentation
+* Internt mål att ha koden klar för sensorerna
+* Kolla orienteringen i förhållande till väggen
+* Kod för att rotera med och utan bok för sträcka
+* Kod för att köra en sträcka med och utan bok
+* Förhoppningsvis Intervju med ingenjör
+* Redovisa robotens förbättringar
+
+
+* Revovisa individuellt plan för lärande 
+* Studieplannering för resten av lästerminen
+* Studieinvetering (var, när)
+
+
+Iterationsplanering V.39-40 plannering inför presentation
+
+
+
+
+* hemsida
+* Kolla över våran dokumentation
+* Kolla koden med avståndssensorn väggen, ev kalibrering på delar av sträckan
+* Dela upp uppgifter för koden./strukturera mer.
+* EV Gör kod för att hitta kortaste vägen till väggen
+* Hitta förhållandena mellan motorernas rotation och en sträcka
+* Förbered inför presentationer
+* Redovisa robotens förbättringar
+
+
+* Redovisa början av kursrapporten
+* Gruppens förslag på projectpresentation
+* Tidrapport 
+* Reflektioner
+* Provkör
+* Kursrapport saker
+* Se till att batterierna är laddade
+* Demonstrera
+* Riposa, riposa in pace robot
