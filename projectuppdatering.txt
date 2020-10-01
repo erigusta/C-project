@@ -1,0 +1,23 @@
+Project uppdatering
+
+Ändrad struktur på bakhjul då de små gummihjulen inte roterade fritt vid vissa rotatioer
+Modifierad leveransmekansim för att anpassa det till modulbasserad struktur och förlängt dess bas.
+
+Övergång till robot c
+
+Funtioner klara
+Rotera L(n)
+Rotera R(n)
+Leverera till väggen
+Vänta tills toutch
+få data från avståndssensorn
+
+Demonstation av ovan
+https://drive.google.com/file/d/1tRzKxl1HTsFuyNlAWXvxg48Fvqqr7-DI/view?usp=sharing
+
+Annat
+Ej i videon i teststadie köra sträcka
+Arbetas på finna väggen
+
+ev framtida ändringar
+Beror på noggraneht avståndssensor kan det behövas köra in i väggen med 2 toutch sensorer eller annat för att den ska hamna rätt
