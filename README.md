@@ -1,7 +1,3 @@
-# C-project
-
-Ask for clarification regarding "Roboten byggs gemensamt, men programmeringen av roboten görs separat av de två projektgrupperna"
-
 This project is a group work to construct a LEGO-ev3 to deliver "mail". The robot is constructed by the group. The objetive is the following:
 
 The robot will travel in a corridor wiht a maximum with of 400cm and a minimum with of 150cm. The walls are promarly flat. There may be electrical sockets, glassed parts of the walls, floor moldings and other. Even with the obstiles the with is within specifications. 
